@@ -1,0 +1,43 @@
+body{
+          background-color: magenta;
+          font-size: 16px;
+          font-family: oxygen, sans-serif;
+
+}
+h1{
+          text-align: center;
+          text-transform: uppercase;
+}
+#header-nav{
+          background-color: yellowgreen;
+          border: 0;
+          border-radius: 0;
+}
+#company-name{
+          font-size:2em;
+          font-weight: bold;
+          
+}
+.container a:hover, .container a:focus, .container a{
+          text-decoration:none;
+
+}
+.menu-items{
+          box-sizing: border-box;
+          float:right;
+          background-color: mediumpurple;
+          margin:1%;
+          
+          
+}
+.menu-item-header{
+          font-size: 2em;
+          font-weight: bold;
+          text-align: center;
+}
+.item-description{
+          padding: 1em;
+}
+ul{
+          float:right;
+}
